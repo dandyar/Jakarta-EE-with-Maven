@@ -1,0 +1,6 @@
+[submodule "module-a"]
+	path = module-a
+	url = https://github.com/dandyar/Jakarta-EE-with-Maven.git
+[submodule "module-b"]
+	path = module-b
+	url = https://github.com/dandyar/Jakarta-EE-with-Maven.git
